@@ -1,6 +1,6 @@
 # 📊 Web Scraping
 
-Welcome to my data analysis project based on internship listings! This project demonstrates the complete workflow of **scraping data**, **cleaning**, **analyzing**, and **visualizing** insights using Python.
+Welcome to my data analytics project based on internship listings! This project demonstrates the complete workflow of **scraping data**, **cleaning**, **analyzing**, and **visualizing** insights using Python.
 
 ---
 
