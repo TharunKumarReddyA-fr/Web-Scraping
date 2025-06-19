@@ -1,22 +1,25 @@
 # 💡 CodeAlpha Internship Projects
 
-This repository contains all the hands-on projects I completed as part of my **CodeAlpha Data Science Internship**.
+This repository contains all the hands-on projects I completed as part of my **CodeAlpha Data Analytics Internship**.
 
 ---
 
-## 📊 Web_Scraping
-
-### 🔹 Data Analysis
-
-- Collected internship listings using Octoparse
-- Cleaned and analyzed the data using Python (Pandas, Matplotlib, Seaborn)
-- Performed visualizations and insights extraction
-- Project notebook: `Web Scraping -Analysis.ipynb`
+## 📊 Web_Scraping  
+🔹 **Data Analysis of Internship Listings**  
+- Collected internship listings using **Octoparse**  
+- Cleaned and analyzed the data using **Python** *(Pandas, Matplotlib, Seaborn)*  
+- Performed visualizations and extracted insights  
+- 📓 Project notebook: `Web Scraping - Analysis.ipynb`  
 
 ---
 
-## 📁 More projects coming soon...
+## 📈 Data_Visualization  
+🔹 **Global Unemployment Trends (2014–2024)**  
+- Transformed raw unemployment data into meaningful visual insights  
+- Explored unemployment trends by **year**, **country**, **gender**, and **age group**  
+- Designed interactive and aesthetic plots using **Matplotlib** and **Seaborn**  
+- Highlighted key insights and storytelling techniques for data interpretation  
+- 📓 Project notebook: `data_visualization.ipynb`  
 
-Stay tuned!
-
-— by Tharun Reddy
+---
+— by *Tharun Reddy*
