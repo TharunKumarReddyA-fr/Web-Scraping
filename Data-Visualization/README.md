@@ -1,7 +1,7 @@
 # 📊 Global Unemployment Data Visualization (CodeAlpha Internship Project)
 
 ## 🧠 Project Overview
-This project, completed as part of the CodeAlpha Data Science Internship, focuses on transforming raw global unemployment data into insightful and well-designed visualizations. It highlights trends across years, countries, genders, and age groups, helping to uncover hidden patterns and support data-driven decision-making.
+This project, completed as part of the CodeAlpha Data Analytics Internship, focuses on transforming raw global unemployment data into insightful and well-designed visualizations. It highlights trends across years, countries, genders, and age groups, helping to uncover hidden patterns and support data-driven decision-making.
 
 ---
 
