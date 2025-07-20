@@ -1,7 +1,4 @@
 # 💡 Web Scraping Data Analysis
-
-This repository contains all the hands-on projects I completed as part of my **CodeAlpha Data Analytics Internship**.
-
 ---
 
 ## 📊 Web_Scraping  
