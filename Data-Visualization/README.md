@@ -44,10 +44,5 @@ This project, completed as part of the CodeAlpha Data Analytics Internship, focu
 
 ---
 
-## 💼 About the Internship
-This project was completed under the **CodeAlpha Internship Program** for Data Analytics. It focused on transforming raw data into insights using Python, visualization libraries, and storytelling techniques.
-
----
-
 ## 🔗 Connect With Me 
 📌 LinkedIn: [linkedin.com/in/addulatharunkumarreddy](https://linkedin.com/in/addulatharunkumarreddy)
